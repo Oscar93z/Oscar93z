@@ -1,5 +1,4 @@
-- 👋 Hey!, soy Oscar Greave @Oscar93z
-- WIP
+- 👋 Hello! I'm Oscar Greave @Oscar93z ..WIP profile!
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
